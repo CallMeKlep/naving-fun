@@ -1,0 +1,32 @@
+/* Initial body */
+body {
+  left: 0;
+  margin: 0;
+  position: relative;
+}
+
+/* Initial menu */
+/*.menu {
+  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
+  left: -285px;  /* start off behind the scenes */
+/*  height: 100%;
+  position: fixed;
+  width: 285px;
+}*/
+
+/* Basic styling */
+
+.jumbotron {
+  background-image: url('http://bit.ly/19H0JPh'); 
+  height: 90%;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+.landing-banner {
+  background:#e8e8e8;
+  height: 10%;
+  
+}
