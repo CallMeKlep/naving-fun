@@ -3,9 +3,8 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400;300' rel='stylesheet' type='text/css'>
     <link href='style.css' rel='stylesheet'>
-
-    
   </head>
+
   <body>
     <div class="section group jumbotron">
       <div class="intro">
@@ -24,4 +23,5 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="coverStickyMenu.js"></script>
   </body>
+  
 </html>
